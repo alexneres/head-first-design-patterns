@@ -1,6 +1,5 @@
-import { FlyRocketPowered } from "./duck/behaviors"
-import { MallardDuck } from "./mallard-duck"
-
+import { FlyRocketPowered } from "./behaviors"
+import { MallardDuck } from "./duck/mallard-duck"
 
 class MiniDuckSimulator {
   main() {
