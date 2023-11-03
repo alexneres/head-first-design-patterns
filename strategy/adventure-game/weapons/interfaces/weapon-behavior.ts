@@ -1,3 +1,3 @@
 export interface WeaponBehavior {
-    useWeapon: () => void
+    useWeapon(): void
 }
